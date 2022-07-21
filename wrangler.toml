@@ -1,0 +1,5 @@
+name = "worker-template"
+workers_dev = true
+account_id = "a826340b3b93189c9ebb7c0eaeba3c46"
+main = "worker.js"
+compatibility_date = "2022-06-21"
